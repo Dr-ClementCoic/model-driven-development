@@ -11,4 +11,4 @@ We aim at redefining how engineering is taught by:
 3. Implementing models using different tools and always providing a tool-agnostic manner to run the models - so that the book is not specific to a given toolchain.
 
 Therefore, the book aims at being interactive and including executable models relying on different standards and tools.
-Anyone is welcome to contribute to its development, either by opening a pull requests (or by reaching out to Dr. Clément Coïc directly).
+Anyone is welcome to contribute to its development, either by opening a pull requests (or by reaching out to [Dr. Clément Coïc](https://www.linkedin.com/in/clementcoic/) directly).
